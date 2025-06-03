@@ -20,13 +20,13 @@ Currently, I'm a PhD Candidate at the **University of Siegen**, focusing on adap
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, C++, SQL  
+**Programming Languages:** Python, C++, SQL, Javascript
 **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face Transformers  
 **Data Processing:** Pandas, NumPy  
 **Databases:** MongoDB, PostgreSQL 
 **DevOps & Deployment:** Docker, Git, GitHub/GitLab  
 **Cloud Platforms:** Supeabase , Google Cloud Platform  
-**Other Tools:** MATLAB, Langchain
+**Other Tools:** MATLAB, Langchain, google colab, Anaconda, Jupyter notebook
 
 ---
 
