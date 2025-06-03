@@ -47,6 +47,20 @@ Currently, I'm a PhD Candidate at the **University of Siegen**, focusing on adap
 
 ---
 
+## 📚 Selected Publications
+
+- **09/2025** – *Adaptive Approach to Enhance Machine Learning Scheduling Algorithms During Runtime Using Reinforcement Learning in Metascheduling Applications* (ITPDS)
+- **04/2024** – *Model Comparative Analysis of Neighborhood Aggregation Levels in Graph Neural Networks for Metaschedulers* (ICIT)
+- **08/2023** – *Evaluation of AI-based Meta-scheduling Approaches for Adaptive Time-triggered System* (ICSCA)
+- **10/2022** – *Graph Neural Networks Based Meta-scheduling in Adaptive Time-Triggered Systems* (ETFA)
+- **11/2015** – *An Improved K-Means Clustering Algorithm for Two Half-Moon Classification* (ISMA)
+- **03/2015** – *SURF and Image Processing Techniques Applied to an Autonomous Overhead Crane* (ASME IMECE)
+- **05/2014** – *Applying Image Processing Techniques on a Ball Collecting Robot* (DICTAP)
+
+*Full publication list available upon request.*
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 [eng.sameralshaer@gmail.com](mailto:eng.sameralshaer@gmail.com)  
