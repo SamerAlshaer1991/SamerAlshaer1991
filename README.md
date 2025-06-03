@@ -32,9 +32,7 @@ Currently, I'm a PhD Candidate at the **University of Siegen**, focusing on adap
 
 ## 📂 Side Projects
 
-- **[Real-Time Multicore Task Scheduling](https://github.com/SamerAlshaer1991/rtl_multicore_task_scheduling):** Developed adaptive scheduling algorithms for IoT systems using machine learning techniques.
-- **[Legal Document AI (Coming Soon)](https://github.com/SamerAlshaer1991/legal_doc_ai):** An NLP-powered application for classifying and summarizing legal documents.
-- **AI Research Playground (Private/Archived):** Explored Graph Neural Networks and meta-scheduling approaches for complex system optimizations.
+*Coming soon*
 
 ---
 
