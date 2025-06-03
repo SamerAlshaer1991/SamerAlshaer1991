@@ -25,7 +25,7 @@ Currently, I'm a PhD Candidate at the **University of Siegen**, focusing on adap
 **Data Processing:** Pandas, NumPy  
 **Databases:** MongoDB, PostgreSQL 
 **DevOps & Deployment:** Docker, Git, GitHub/GitLab  
-**Cloud Platforms:** Supeabase , Google Cloud Platform  
+**Cloud Platforms:** Supabase , Google Cloud Platform  
 **Other Tools:** MATLAB, Langchain, google colab, Anaconda, Jupyter notebook
 
 ---
