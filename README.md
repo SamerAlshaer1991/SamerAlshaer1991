@@ -49,7 +49,7 @@ Currently, I'm a PhD Candidate at the **University of Siegen**, focusing on adap
 
 ## 📫 Let's Connect
 
-- 📧 [dr.samer.alshaer@gmail.com](mailto:dr.samer.alshaer@gmail.com)  
+- 📧 [eng.sameralshaer@gmail.com](mailto:eng.sameralshaer@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/samer-alshaer)  
 - 📚 [ResearchGate](https://www.researchgate.net/profile/Samer_Al-Shaer)  
 - 🧑‍🏫 [Academic Page](https://networked-embedded.de/es/index.php/staff.html)
